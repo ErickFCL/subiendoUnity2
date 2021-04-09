@@ -1,0 +1,685 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.2f1 (068178b99f32) revision 426360'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19041.685; Version 2004; 64bit' Language: 'es' Physical Memory: 8080 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.2f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+F:/ERICK/Programacion/Unity/Mi juego 2D
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+63803
+Successfully changed project path to: F:/ERICK/Programacion/Unity/Mi juego 2D
+F:/ERICK/Programacion/Unity/Mi juego 2D
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 64.55 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.2f1 (068178b99f32)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path F:/ERICK/Programacion/Unity/Mi juego 2D/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics (ID=0x152)
+    Vendor:   
+    VRAM:     128 MB
+    Driver:   10.18.10.4252
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56136
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.009312 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 59.01 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.691 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001967 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 60.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.466 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1792 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.2 MB.
+System memory in use after: 84.2 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 2234.
+Total: 3.046200 ms (FindLiveObjects: 0.221000 ms CreateObjectMapping: 0.086100 ms MarkObjects: 2.589300 ms  DeleteObjects: 0.147600 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Animations/ARobot/AnimatorController.controller
+  artifactKey: Guid(6467d91ad738bb149b7f73e6bb23599f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/ARobot/AnimatorController.controller using Guid(6467d91ad738bb149b7f73e6bb23599f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '947e3bcf7d98870e82dbc2429bdd2490') in 0.079775 seconds
+  Import took 0.085581 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 4.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 49.0 MB.
+System memory in use after: 49.0 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2234.
+Total: 3.136800 ms (FindLiveObjects: 0.216700 ms CreateObjectMapping: 0.082400 ms MarkObjects: 2.644700 ms  DeleteObjects: 0.189600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.972771 seconds.
+  path: Assets/Animations/ARobot/New Animator Controller.controller
+  artifactKey: Guid(dfb0cceaf499f554c8f7c203a021bba8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/ARobot/New Animator Controller.controller using Guid(dfb0cceaf499f554c8f7c203a021bba8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce56a15ed7dba3c59f5958c7eb9d53b9') in 0.010177 seconds
+  Import took 0.014435 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.793871 seconds.
+  path: Assets/Animations/ARobot/AnimatorController.controller
+  artifactKey: Guid(dfb0cceaf499f554c8f7c203a021bba8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/ARobot/AnimatorController.controller using Guid(dfb0cceaf499f554c8f7c203a021bba8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bd06cc53e53b144c8b88dbfd9b1f442') in 0.004817 seconds
+  Import took 0.008864 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 111.241882 seconds.
+  path: Assets/Animations/ARobot/Idle (1).controller
+  artifactKey: Guid(c613eb0931e007f42bc0368652f7bdd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/ARobot/Idle (1).controller using Guid(c613eb0931e007f42bc0368652f7bdd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0eaa39528eda7e65014d5be32157b9b') in 0.013595 seconds
+  Import took 0.017603 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.885908 seconds.
+  path: Assets/Animations/ARobot/Idle.anim
+  artifactKey: Guid(afd18740f1102fd4a891fcd1e60be3cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/ARobot/Idle.anim using Guid(afd18740f1102fd4a891fcd1e60be3cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc1f055adb84d7ab64de44c73563b408') in 0.016206 seconds
+  Import took 0.019672 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 110.677521 seconds.
+  path: Assets/Animations/ARobot/Dead.anim
+  artifactKey: Guid(a7db375bea3da304ab28750dd1690d69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/ARobot/Dead.anim using Guid(a7db375bea3da304ab28750dd1690d69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e8d4b86155229eea30c4d112702bb30') in 0.010376 seconds
+  Import took 0.019799 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.809432 seconds.
+  path: Assets/Animations/ARobot/Dead (1).controller
+  artifactKey: Guid(443ac2dcad45bb541b21b7902a920f9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/ARobot/Dead (1).controller using Guid(443ac2dcad45bb541b21b7902a920f9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '975120b90293bfd26e44db9831798c51') in 0.010698 seconds
+  Import took 0.014571 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 142.931093 seconds.
+  path: Assets/Animations/ARobot/AnimatorController.controller
+  artifactKey: Guid(443ac2dcad45bb541b21b7902a920f9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/ARobot/AnimatorController.controller using Guid(443ac2dcad45bb541b21b7902a920f9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9273d9a21834d26b0d54f1d1265b3793') in 0.004745 seconds
+  Import took 0.009097 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.819937 seconds.
+  path: Assets/Animations/ARobot/Jump (1).controller
+  artifactKey: Guid(bf47a354fbdfd854eaea04bdd245ff13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/ARobot/Jump (1).controller using Guid(bf47a354fbdfd854eaea04bdd245ff13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4666223e9d361e7d951bd0afb78cfbcc') in 0.010282 seconds
+  Import took 0.031363 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 85.414943 seconds.
+  path: Assets/Animations/ARobot/JumpMelee (1).controller
+  artifactKey: Guid(7249f962df7a07645a2dca035aa06602) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/ARobot/JumpMelee (1).controller using Guid(7249f962df7a07645a2dca035aa06602) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '486f9868421a222d335897083de042ef') in 0.010265 seconds
+  Import took 0.014131 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 46.825933 seconds.
+  path: Assets/Animations/ARobot/JumpShoot.anim
+  artifactKey: Guid(f3c9db9452feae848888d1a3c921673e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/ARobot/JumpShoot.anim using Guid(f3c9db9452feae848888d1a3c921673e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8a500836495ba3d7b7a052ef7cc7444') in 0.013546 seconds
+  Import took 0.017587 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 131.066789 seconds.
+  path: Assets/Animations/ARobot/JumpShoot (1).controller
+  artifactKey: Guid(61d7cdd7fc5ffda42af8eb4a6dba5ab9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/ARobot/JumpShoot (1).controller using Guid(61d7cdd7fc5ffda42af8eb4a6dba5ab9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '873647be2872bb557f9c82c5b0c900c0') in 0.010549 seconds
+  Import took 0.014353 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 246.102169 seconds.
+  path: Assets/Animations/ARobot/Melee (1).controller
+  artifactKey: Guid(8096c84ada146fc4db803507de168e22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/ARobot/Melee (1).controller using Guid(8096c84ada146fc4db803507de168e22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a503d185ffb6ad1581c1d23373fe3130') in 0.010934 seconds
+  Import took 0.015047 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.677331 seconds.
+  path: Assets/Animations/ARobot/Run (1).controller
+  artifactKey: Guid(65d33de487b2f1140a9446f2c36c1a7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/ARobot/Run (1).controller using Guid(65d33de487b2f1140a9446f2c36c1a7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdac10217e7b2adcd42b21fe195751a8') in 0.010257 seconds
+  Import took 0.013930 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.743746 seconds.
+  path: Assets/Animations/ARobot/RunShoot (1).controller
+  artifactKey: Guid(e61ac2c7ae1ec9841bb4c9a6881ff16e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/ARobot/RunShoot (1).controller using Guid(e61ac2c7ae1ec9841bb4c9a6881ff16e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb6c0782c99deed6d5f341593103bce1') in 0.010057 seconds
+  Import took 0.021117 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.352745 seconds.
+  path: Assets/Animations/ARobot/Shoot (1).controller
+  artifactKey: Guid(c90c06131079dc644b5f31070461a632) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/ARobot/Shoot (1).controller using Guid(c90c06131079dc644b5f31070461a632) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '647f41230de0e7c402ea73e7effc0f48') in 0.009725 seconds
+  Import took 0.013944 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.290679 seconds.
+  path: Assets/Animations/ARobot/Slide (1).controller
+  artifactKey: Guid(8380a284ee1d71a42bada1ccbe06aeed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/ARobot/Slide (1).controller using Guid(8380a284ee1d71a42bada1ccbe06aeed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bb4d6124a9c0d2070ffd64aa18b2598') in 0.009509 seconds
+  Import took 0.014013 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 186.224954 seconds.
+  path: Assets/Sprites/zombiefiles/png/female/Walk (1).png
+  artifactKey: Guid(fa77327c31feace40bcfa187d427d130) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/zombiefiles/png/female/Walk (1).png using Guid(fa77327c31feace40bcfa187d427d130) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '562e0c4892bceda73ce9199062e15b8f') in 0.337111 seconds
+  Import took 0.342846 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/Sprites/zombiefiles/png/female/Walk (5).png
+  artifactKey: Guid(7c16226e2810b7043a0c3c83f0af13bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/zombiefiles/png/female/Walk (5).png using Guid(7c16226e2810b7043a0c3c83f0af13bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3cf436343d16ca283814004835fbe5f') in 0.096958 seconds
+  Import took 0.100955 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/Sprites/zombiefiles/png/female/Walk (4).png
+  artifactKey: Guid(8cf57b3f8f55a2b4f8ca5decb49c69db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/zombiefiles/png/female/Walk (4).png using Guid(8cf57b3f8f55a2b4f8ca5decb49c69db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfda10e70d81e38d15ca9fadd2a03f73') in 0.117143 seconds
+  Import took 0.120784 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/Sprites/zombiefiles/png/female/Walk (2).png
+  artifactKey: Guid(406d6281f21bb5b44acdb705002661ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/zombiefiles/png/female/Walk (2).png using Guid(406d6281f21bb5b44acdb705002661ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9c8bcf9516e531c524c0bc2e5db3a43') in 0.090349 seconds
+  Import took 0.094387 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Sprites/zombiefiles/png/female/Walk (1).png
+  artifactKey: Guid(fa77327c31feace40bcfa187d427d130) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/zombiefiles/png/female/Walk (1).png using Guid(fa77327c31feace40bcfa187d427d130) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '562e0c4892bceda73ce9199062e15b8f') in 0.033827 seconds
+  Import took 0.037677 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000322 seconds.
+  path: Assets/Sprites/zombiefiles/png/female/Walk (2).png
+  artifactKey: Guid(406d6281f21bb5b44acdb705002661ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/zombiefiles/png/female/Walk (2).png using Guid(406d6281f21bb5b44acdb705002661ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9c8bcf9516e531c524c0bc2e5db3a43') in 0.025654 seconds
+  Import took 0.029599 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/Sprites/zombiefiles/png/female/Walk (10).png
+  artifactKey: Guid(df0a59ea91d30b9468f22b1233fd7654) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/zombiefiles/png/female/Walk (10).png using Guid(df0a59ea91d30b9468f22b1233fd7654) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a161c13441f6e24cd6058572410d452f') in 0.057576 seconds
+  Import took 0.061522 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/Sprites/zombiefiles/png/female/Walk (8).png
+  artifactKey: Guid(9c5df6aba22e98247a5040e114c7a5bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/zombiefiles/png/female/Walk (8).png using Guid(9c5df6aba22e98247a5040e114c7a5bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fbf2c5a48879fc82fe55e9ede78d9a2') in 0.077521 seconds
+  Import took 0.089353 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/Sprites/zombiefiles/png/female/Walk (9).png
+  artifactKey: Guid(908e34524cd5217418453c65aebc8851) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/zombiefiles/png/female/Walk (9).png using Guid(908e34524cd5217418453c65aebc8851) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8577656f2316e93d9a55b67018e2ac6') in 0.059462 seconds
+  Import took 0.063099 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/Sprites/zombiefiles/png/female/Walk (7).png
+  artifactKey: Guid(78eb9c293fa57de4c83c1691c2dd895f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/zombiefiles/png/female/Walk (7).png using Guid(78eb9c293fa57de4c83c1691c2dd895f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7db2180d8fd1ab60da63b585984199e') in 0.066904 seconds
+  Import took 0.071043 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/Sprites/zombiefiles/png/female/Walk (3).png
+  artifactKey: Guid(dc1c288e805ab3a42bbbe706d7f80355) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/zombiefiles/png/female/Walk (3).png using Guid(dc1c288e805ab3a42bbbe706d7f80355) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a788400e8ef4a10bbc2aaa806f2f1564') in 0.082199 seconds
+  Import took 0.086286 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000406 seconds.
+  path: Assets/Sprites/zombiefiles/png/female/Walk (6).png
+  artifactKey: Guid(119bb5a34b8224449947fa412b68f8e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/zombiefiles/png/female/Walk (6).png using Guid(119bb5a34b8224449947fa412b68f8e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a930aa6a22bc2060ea6c6d5e495b7cfb') in 0.086937 seconds
+  Import took 0.091368 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 119.069986 seconds.
+  path: Assets/Animations/AZombie/male
+  artifactKey: Guid(76122c1223b4fa04fa0def3cae159499) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/AZombie/male using Guid(76122c1223b4fa04fa0def3cae159499) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c5f1fd0190d658c0368eb82700ad02e') in 0.010080 seconds
+  Import took 0.013943 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.953631 seconds.
+  path: Assets/Animations/AZombie/male/Attack (1).controller
+  artifactKey: Guid(9d1a542065b47244e916a83116a832b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/AZombie/male/Attack (1).controller using Guid(9d1a542065b47244e916a83116a832b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76ae866ad8868c0f981b7ba5cd92ef84') in 0.010656 seconds
+  Import took 0.014660 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.837854 seconds.
+  path: Assets/Animations/AZombie/male/Controller.controller
+  artifactKey: Guid(9d1a542065b47244e916a83116a832b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/AZombie/male/Controller.controller using Guid(9d1a542065b47244e916a83116a832b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4da27ca9cb35119a98acdedbe61a739b') in 0.010017 seconds
+  Import took 0.014018 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.059817 seconds.
+  path: Assets/Animations/ARobot/Controller.controller
+  artifactKey: Guid(443ac2dcad45bb541b21b7902a920f9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/ARobot/Controller.controller using Guid(443ac2dcad45bb541b21b7902a920f9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2eb297b1f41e454d3c75c9b89d03ebae') in 0.004142 seconds
+  Import took 0.008024 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 175.174265 seconds.
+  path: Assets/Animations/AZombie/male/Dead (1).controller
+  artifactKey: Guid(e5732b9b242d99341bcec3418e1c3469) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/AZombie/male/Dead (1).controller using Guid(e5732b9b242d99341bcec3418e1c3469) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5514f7a111a50ada3658b9fcba6825e') in 0.011166 seconds
+  Import took 0.015518 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.601929 seconds.
+  path: Assets/Animations/AZombie/male/Idle (1).controller
+  artifactKey: Guid(7f46fcea08cec0f43871d8aa7a21d8f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/AZombie/male/Idle (1).controller using Guid(7f46fcea08cec0f43871d8aa7a21d8f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd31b5913679458c4cb3da38f2654348') in 0.004190 seconds
+  Import took 0.008204 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.297449 seconds.
+  path: Assets/Animations/AZombie/male/Walk (1).controller
+  artifactKey: Guid(99db8dfd527d9a44f918793c00382770) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/AZombie/male/Walk (1).controller using Guid(99db8dfd527d9a44f918793c00382770) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c72abc84342526548c8a3875f26cf6a2') in 0.004856 seconds
+  Import took 0.008870 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 342.328873 seconds.
+  path: Assets/Animations/AZombie/female
+  artifactKey: Guid(980995ea987244a49b9d4a6a6e9ff382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/AZombie/female using Guid(980995ea987244a49b9d4a6a6e9ff382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80532739379ec6f40f0af1a743a867ab') in 0.009915 seconds
+  Import took 0.014440 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.597724 seconds.
+  path: Assets/Animations/AZombie/female/Attack (1).controller
+  artifactKey: Guid(960b0db38a878014c80928dacb5584a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/AZombie/female/Attack (1).controller using Guid(960b0db38a878014c80928dacb5584a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '761f6508f632b17a7ccc72e1290d65a5') in 0.004522 seconds
+  Import took 0.008297 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.333349 seconds.
+  path: Assets/Animations/AZombie/female/Controller.controller
+  artifactKey: Guid(960b0db38a878014c80928dacb5584a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/AZombie/female/Controller.controller using Guid(960b0db38a878014c80928dacb5584a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fe676facd627b21472af9524530ea48') in 0.003937 seconds
+  Import took 0.018019 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 195.226575 seconds.
+  path: Assets/Animations/AZombie/female/Dead (1).controller
+  artifactKey: Guid(70a6df3130966cc4b90b61ffcac2ca64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/AZombie/female/Dead (1).controller using Guid(70a6df3130966cc4b90b61ffcac2ca64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb30e7e94611dad519dad1b878961e88') in 0.009614 seconds
+  Import took 0.013428 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.520158 seconds.
+  path: Assets/Animations/AZombie/female/Idle (1).controller
+  artifactKey: Guid(1ba67b7d3a33d9f459792facd8ae9a06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/AZombie/female/Idle (1).controller using Guid(1ba67b7d3a33d9f459792facd8ae9a06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed32f9269024f91cb735070103189064') in 0.004107 seconds
+  Import took 0.007857 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.770610 seconds.
+  path: Assets/Animations/AZombie/female/Walk (1).controller
+  artifactKey: Guid(796570a0a767a374782252c3ac8e3c0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/AZombie/female/Walk (1).controller using Guid(796570a0a767a374782252c3ac8e3c0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '879eb2feee5675abe148c5e91c7270ba') in 0.004525 seconds
+  Import took 0.008210 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002039 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.100 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1787 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.5 MB.
+System memory in use after: 87.4 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2243.
+Total: 3.175600 ms (FindLiveObjects: 0.225000 ms CreateObjectMapping: 0.080300 ms MarkObjects: 2.734100 ms  DeleteObjects: 0.133600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001865 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.092 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1787 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.5 MB.
+System memory in use after: 87.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2246.
+Total: 2.838900 ms (FindLiveObjects: 0.238100 ms CreateObjectMapping: 0.108600 ms MarkObjects: 2.349700 ms  DeleteObjects: 0.140400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 174.963708 seconds.
+  path: Assets/Animations/ARobot/ControllerRobot.controller
+  artifactKey: Guid(443ac2dcad45bb541b21b7902a920f9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/ARobot/ControllerRobot.controller using Guid(443ac2dcad45bb541b21b7902a920f9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebe9f3aa0e818448d6e7a1620dc0a075') in 0.022403 seconds
+  Import took 0.026363 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001641 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.109 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.58 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1787 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.6 MB.
+System memory in use after: 87.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2249.
+Total: 2.455900 ms (FindLiveObjects: 0.231800 ms CreateObjectMapping: 0.150400 ms MarkObjects: 1.913100 ms  DeleteObjects: 0.158800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002427 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.329 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.56 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1787 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.7 MB.
+System memory in use after: 87.7 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2252.
+Total: 3.095100 ms (FindLiveObjects: 0.216400 ms CreateObjectMapping: 0.079900 ms MarkObjects: 2.600000 ms  DeleteObjects: 0.196600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 57.190751 seconds.
+  path: Assets/Animations/AZombie/male/ControllerZoombieMale.controller
+  artifactKey: Guid(9d1a542065b47244e916a83116a832b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/AZombie/male/ControllerZoombieMale.controller using Guid(9d1a542065b47244e916a83116a832b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a3663aee7ffeb4f169b9ab4dc741a1b') in 0.024822 seconds
+  Import took 0.029329 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001800 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.205 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1787 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.8 MB.
+System memory in use after: 87.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2255.
+Total: 2.598200 ms (FindLiveObjects: 0.313500 ms CreateObjectMapping: 0.088800 ms MarkObjects: 2.028900 ms  DeleteObjects: 0.164900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001765 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.100 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1787 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.9 MB.
+System memory in use after: 87.9 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2258.
+Total: 2.473800 ms (FindLiveObjects: 0.214000 ms CreateObjectMapping: 0.093900 ms MarkObjects: 2.019000 ms  DeleteObjects: 0.145600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001729 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.276 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.88 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1787 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.9 MB.
+System memory in use after: 87.9 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2261.
+Total: 2.599300 ms (FindLiveObjects: 0.229200 ms CreateObjectMapping: 0.092500 ms MarkObjects: 2.127500 ms  DeleteObjects: 0.148300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 215.020733 seconds.
+  path: Assets/Animations/AZombie/female/Attack2.anim
+  artifactKey: Guid(89170f828313a194b8ca71655ced29c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/AZombie/female/Attack2.anim using Guid(89170f828313a194b8ca71655ced29c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71ea9d1609666c36ef9883c037c8158d') in 0.021648 seconds
+  Import took 0.025549 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.143520 seconds.
+  path: Assets/Animations/AZombie/female/Attack (1).controller
+  artifactKey: Guid(beb78fa2380031d47a51edf539239e27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/AZombie/female/Attack (1).controller using Guid(beb78fa2380031d47a51edf539239e27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec91eef489399e4a4b896e2b2fdde5d4') in 0.005428 seconds
+  Import took 0.009284 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.823699 seconds.
+  path: Assets/Animations/AZombie/female/ControllerZoombiefemale.controller
+  artifactKey: Guid(beb78fa2380031d47a51edf539239e27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/AZombie/female/ControllerZoombiefemale.controller using Guid(beb78fa2380031d47a51edf539239e27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6700973b4a0ba8c971da9f883ddf898') in 0.009531 seconds
+  Import took 0.013419 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.002052 seconds.
+  path: Assets/Animations/AZombie/female/Attack.anim
+  artifactKey: Guid(548e77e03e4356d4da059525baf491e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/AZombie/female/Attack.anim using Guid(548e77e03e4356d4da059525baf491e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3aa788e99ec754c852e59e8e9c2cbea4') in 0.009779 seconds
+  Import took 0.013426 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.690363 seconds.
+  path: Assets/Animations/AZombie/female/Attack.anim
+  artifactKey: Guid(89170f828313a194b8ca71655ced29c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/AZombie/female/Attack.anim using Guid(89170f828313a194b8ca71655ced29c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9262e6f2e4e6ee5a2ba638c0882b2ff2') in 0.004108 seconds
+  Import took 0.007843 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002064 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.090 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.51 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1787 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.0 MB.
+System memory in use after: 88.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2264.
+Total: 2.499300 ms (FindLiveObjects: 0.260100 ms CreateObjectMapping: 0.130300 ms MarkObjects: 1.955300 ms  DeleteObjects: 0.151900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001655 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.081 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1787 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.1 MB.
+System memory in use after: 88.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2267.
+Total: 2.345100 ms (FindLiveObjects: 0.234000 ms CreateObjectMapping: 0.074000 ms MarkObjects: 1.895800 ms  DeleteObjects: 0.140000 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
